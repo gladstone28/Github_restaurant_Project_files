@@ -1,5 +1,5 @@
 types = ['german', 'japanese', 'vegetarian', 'french', 'african', 'american', 'barbecue', 'czech', 'chinese', 'thai',
-         'mexican', 'indian', 'cafe', 'pizza', 'italian', 'jamaican', 'european', 'asian']
+         'mexican', 'indian', 'cafe', 'pizza', 'italian', 'jamaican', 'european', 'asian', 'seafood']
 
 restaurant_data = [['german', "Esther's German Saloon", '3', '3', '22 Teutonic Ave.'],
                    ['japanese', 'Robatayaki Hachi','4', '5', '8 Hawthorne Ln.'],
@@ -44,5 +44,7 @@ restaurant_data = [['german', "Esther's German Saloon", '3', '3', '22 Teutonic A
                    ['jamaican', 'Ribbiz Ultra Lounge', '5', '5', '29 Kings House Rd'],
                    ['jamaican', 'Usain Bolt Tracks & Records', '5', '5', '67 Constant Spring Road'],
                    ['european', 'Elenis French Bakery', '4', '5', '29 Barbican Road'],
-                   ['asian', 'Nirvanas Restaurant & Lounge', '4', '4', '80 Lady Musgrave Road']]
+                   ['asian', 'Nirvanas Restaurant & Lounge', '4', '4', '80 Lady Musgrave Road'],
+                   ['asian', 'Terranova Hotel Restaurant', '4.5', '4', '17 Waterloo Road'], 
+                   ['seafood', 'Glorias Rendezvous', '4', '4', '5 Queen Street Port Royal']]
                     
