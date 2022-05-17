@@ -1,5 +1,5 @@
 types = ['german', 'japanese', 'vegetarian', 'french', 'african', 'american', 'barbecue', 'czech', 'chinese', 'thai',
-         'mexican', 'indian', 'cafe', 'pizza', 'italian']
+         'mexican', 'indian', 'cafe', 'pizza', 'italian', 'jamaican', 'european', 'asian']
 
 restaurant_data = [['german', "Esther's German Saloon", '3', '3', '22 Teutonic Ave.'],
                    ['japanese', 'Robatayaki Hachi','4', '5', '8 Hawthorne Ln.'],
@@ -40,4 +40,9 @@ restaurant_data = [['german', "Esther's German Saloon", '3', '3', '22 Teutonic A
                    ['pizza', 'Thick and Thin', '5', '4', '832 Dominican Ave.'],
                    ['pizza', 'When in Rome', '3', '2', '234 Valencia St.'],
                    ['pizza', 'Pizza 76', '4', '3', '76 Market St.'],
-                   ['italian', 'Party Pasta', '5', '2', '70 E Main St']]
+                   ['italian', 'Party Pasta', '5', '2', '70 E Main St'],
+                   ['jamaican', 'Ribbiz Ultra Lounge', '5', '5', '29 Kings House Rd'],
+                   ['jamaican', 'Usain Bolt Tracks & Records', '5', '5', '67 Constant Spring Road'],
+                   ['european', 'Elenis French Bakery', '4', '5', '29 Barbican Road'],
+                   ['asian', 'Nirvanas Restaurant & Lounge', '4', '4', '80 Lady Musgrave Road']]
+                    
