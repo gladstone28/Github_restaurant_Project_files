@@ -1,5 +1,5 @@
 types = ['german', 'japanese', 'vegetarian', 'french', 'african', 'american', 'barbecue', 'czech', 'chinese', 'thai',
-         'mexican', 'indian', 'cafe', 'pizza', 'italian', 'jamaican', 'european', 'asian', 'seafood']
+         'mexican', 'indian', 'cafe', 'pizza', 'italian', 'jamaican', 'european', 'asian', 'seafood', 'caribbean']
 
 restaurant_data = [['german', "Esther's German Saloon", '3', '3', '22 Teutonic Ave.'],
                    ['japanese', 'Robatayaki Hachi','4', '5', '8 Hawthorne Ln.'],
@@ -46,5 +46,8 @@ restaurant_data = [['german', "Esther's German Saloon", '3', '3', '22 Teutonic A
                    ['european', 'Elenis French Bakery', '4', '5', '29 Barbican Road'],
                    ['asian', 'Nirvanas Restaurant & Lounge', '4', '4', '80 Lady Musgrave Road'],
                    ['asian', 'Terranova Hotel Restaurant', '4.5', '4', '17 Waterloo Road'], 
-                   ['seafood', 'Glorias Rendezvous', '4', '4', '5 Queen Street Port Royal']]
-                    
+                   ['seafood', 'Glorias Rendezvous', '4', '4', '5 Queen Street Port Royal'],
+                   ['seafood', 'roses', '5', '5', '15 Roseberry Drive Kingston 8'], 
+		           ['caribbean', 'South Avenue Grill', '4', '5', '20A South Avenue'],
+                   ['caribbean', 'Chillin Restaurant & Bar', '4', '4', '5 Holborn Road']]
+ 
